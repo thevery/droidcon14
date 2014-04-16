@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Swipe to dismiss demo</string>
+    <string name="array">Simple array</string>
+    <string name="fixed">Fixed cursor</string>
+    <string name="broken_1">Broken cursor 1</string>
+    <string name="broken_2">Broken cursor 2</string>
+</resources>
